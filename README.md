@@ -1,3 +1,5 @@
+> **Maintained by [Joseph Ukeje](https://github.com/UkejeJoseph)**
+
 <p align="center">
   <img src="docs/media/banner.png" alt="pdfgrab: Citation needs coordinates. A pure-Go PDF engine that reports where every character, word and table cell sits on the page. 0.442 F1 on ICDAR 2013, 81 ms per document, MIT licence." width="100%"/>
 </p>
